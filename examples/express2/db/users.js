@@ -1,6 +1,6 @@
 var users = [
-    { id: '1', username: 'bob', password: 'secret', name: 'Bob Smith' },
-    { id: '2', username: 'joe', password: 'password', name: 'Joe Davis' }
+    { id: '1', username: 'bob', password: 'secret', name: 'Bob Marley', email: 'bob@hhs.gov', photo: 'http://africanaconnections.com/wp-content/uploads/2011/11/AC-PostPic-11142011a.jpg' },
+    { id: '2', username: 'joe', password: 'password', name: 'Joe Biden', email: 'joe@whitehouse.gov', photo: 'http://static2.businessinsider.com/image/50749374eab8ead24f000010-1200/want-more-joe-biden-moments.jpg' }
 ];
 
 
